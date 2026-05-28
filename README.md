@@ -67,17 +67,17 @@ Somme des pas :
 
 Loi des grands nombres :
 
-      Sn/n ---> 0
+        Sn/n ---> 0
 
 La moyenne des positions converge vers 0.
 
 Variance : 
 
-   Var(Sn) = n
+        Var(Sn) = n
 
 Ecart-type :
 
-    𝜎(Sn) = √n
+        𝜎(Sn) = √n
 
 La marche s’éloigne du point de départ, mais lentement, proportionnellement à √n.
 
