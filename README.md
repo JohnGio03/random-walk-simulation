@@ -62,6 +62,7 @@ E[Xi] = 0
 Var(Xi) = 1
 
 Somme des pas :
+
         Sn = X1 + .... + Xn
 
 Loi des grands nombres :
